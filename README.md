@@ -26,6 +26,15 @@ The dashboard provides insights into:
 - Product category performance
 - Order and quantity trends
 
+**Key Insights**
+
+- Total revenue reached approximately **$2.45M** across **2,000 orders**.
+- A total of **5,552 units** were sold, with an average order value of approximately **$1.23K**.
+- The **North region** generated the highest revenue at approximately **$561.75K**.
+- The **West region** generated the lowest regional revenue at approximately **$421.32K**.
+- Monthly revenue peaked in **November at approximately $274K**.
+- **July** recorded the lowest monthly revenue at approximately **$151K**.
+
 **Tools & Skills**
 - Microsoft Excel
 - Pivot Tables
@@ -36,3 +45,4 @@ The dashboard provides insights into:
 - Data Analysis
 - Data Visualization
 - Dashboard Design
+
