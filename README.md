@@ -35,14 +35,4 @@ The dashboard provides insights into:
 - Monthly revenue peaked in **November at approximately $274K**.
 - **July** recorded the lowest monthly revenue at approximately **$151K**.
 
-**Tools & Skills**
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Excel Formulas
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Dashboard Design
 
